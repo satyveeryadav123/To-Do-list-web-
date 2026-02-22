@@ -10,4 +10,4 @@ A simple interactive To-Do app built using HTML, CSS and JavaScript.
 - Dark/Light mode toggle
 
 ## Live Demo
-https://satyveeryadav123.github.io/T-Do-list-web/
+https://satyveeryadav123.github.io/To-Do-list-web/
